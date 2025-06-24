@@ -14,7 +14,7 @@ title:		           "Cayen Wang"
 description:	       "Master's in Mathematics and Theoretical Physics"
 #author:              "Paul Le"
 
-favicon:             {icon: 'seedling'}
+favicon:             <i class="fa-regular fa-seedling"></i>
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
