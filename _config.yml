@@ -14,6 +14,8 @@ title:		           "Cayen Wang"
 #description:	       "Fourth-year undergraduate | Integrated Masters in Mathematics and Theoretical Physics"
 #author:              "Paul Le"
 
+favicon:             {icon: 'seedling'}
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
