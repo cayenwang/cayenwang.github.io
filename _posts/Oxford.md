@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "University of Oxford"
-#author: "Paul Le"
-categories: education
-tags: [sample]
-image: "worcester college.png"
+author: "Paul Le"
+categories: experience_and_education
+tags: []
+image: "worcester_college.png"
 ---
 
 Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
