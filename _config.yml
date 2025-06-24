@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Cayen Wang"
-#description:	       "Fourth-year undergraduate | Integrated Masters in Mathematics and Theoretical Physics"
+description:	       "Master's in Mathematics and Theoretical Physics"
 #author:              "Paul Le"
 
 favicon:             {icon: 'seedling'}
