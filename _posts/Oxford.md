@@ -2,7 +2,7 @@
 layout: post
 title: "University of Oxford"
 author: "Paul Le"
-categories: experience_and_education
+categories: experience-and-education
 tags: []
 image: "worcester_college.png"
 featured: true
