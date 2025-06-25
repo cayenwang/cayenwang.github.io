@@ -1,14 +1,14 @@
 <article>
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
-      <h4><span>{{ site.data.settings.post_date_prefix }}
-                {{ page.start | date: "%B" }}
-                {{ page.start | date: "%Y" }}
+      <h1><span>{{ post.title }}</span></h1>
+      <h2><span>{{ site.data.settings.post_date_prefix }}
+                {{ post.start | date: "%B" }}
+                {{ post.start | date: "%Y" }}
 
                 {{ site.data.settings.post_date_midtext }}
-                {{ page.end | date: "%B" }}
-                {{ page.end | date: "%Y" }}</span></h4>
+                {{ post.end | date: "%B" }}
+                {{ post.end | date: "%Y" }}</span></h2>
     </div>
   </a>
 </article>
