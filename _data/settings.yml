@@ -7,8 +7,10 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Experience & Education',  url: 'experience-and-education'}
+- {name: 'Experience',  url: 'experience'}
+- {name: 'Education', url: 'education'}
 - {name: 'Projects', url: 'projects'}
+- {name: 'Volunteering',  url: 'volunteering'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:

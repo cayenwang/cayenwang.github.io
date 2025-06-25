@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BA Mathematics"
-categories: experience-and-education
+categories: education
 tags: []
 image: "worcester_college.png"
 organisation: "University of Oxford"

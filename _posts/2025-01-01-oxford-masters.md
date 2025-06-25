@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MMathPhys Mathematics and Theoretical Physics"
-categories: experience-and-education
+categories: education
 tags: []
 image: "oxford.png"
 organisation: "University of Oxford"
