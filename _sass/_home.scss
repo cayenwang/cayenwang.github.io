@@ -21,6 +21,47 @@
   background: rgba(0, 0, 0, 0.7);
   padding: 10px;
 }
+/* Common Style Block */
+.featured-post h3,
+.featured-post h4 {
+  margin: 0;
+  padding: 10px;
+  position: absolute;
+}
+
+.featured-post h3 span,
+.featured-post h4 span {
+  display: inline-block;
+  color: white;
+  font-family: Helvetica, Sans-Serif;
+  font-weight: bold;
+  letter-spacing: -1px;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}
+
+/* Specific for h3 (Top Left) */
+.featured-post h3 {
+  top: 0;
+  left: 0;
+}
+
+.featured-post h3 span {
+  font-size: 20px;
+  line-height: 36px;
+}
+
+/* Specific for h4 (Top Right) */
+.featured-post h4 {
+  top: 0;
+  right: 0;
+}
+
+.featured-post h4 span {
+  font-size: 16px;
+  line-height: 30px;
+}
+
 .featured-post span a {
   color: white;
 }
