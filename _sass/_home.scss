@@ -1,6 +1,6 @@
 .featured-post {
   position: relative;
-  height: 250px;
+  height: 3000px;
   margin: 5px 10px 10px;
   background-position: center;
   background-repeat: no-repeat;
@@ -31,19 +31,19 @@
 }
 
 .featured-post h2 {
-  bottom: 0;
+  top: 0;
   left: 0;
   font-size: 40pt;
 }
 
 .featured-post h3 {
-  bottom: 0;
+  top: 0;
   right: 0;
   font-size: 36pt;
 }
 
 .featured-post h4 {
-  top: 0;
+  bottom: 0;
   right: 0;
   font-size: 32pt;
 }
