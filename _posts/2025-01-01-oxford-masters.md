@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MMathPhys Mathematics and Theoretical Physics AAAAA"
+title: "MMathPhys Mathematics and Theoretical Physics"
 categories: education
 tags: []
 image: "oxford.png"
