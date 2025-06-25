@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BA Mathematics"
+title: "BA Mathematics up"
 categories: experience-and-education
 tags: []
 image: "worcester_college.png"
