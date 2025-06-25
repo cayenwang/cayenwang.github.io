@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "BA Mathematics"
+title: "MMathPhys Mathematics and Theoretical Physics"
 categories: experience-and-education
 tags: []
-image: "worcester_college.png"
+image: "oxford.png"
 organisation: "University of Oxford"
-start: "2022-10-01"
-end: "2025-06-01"
+start: "2025-10-01"
+end: "2026-06-01"
 ---
 
 random text
